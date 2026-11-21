@@ -1,0 +1,25 @@
+{
+  "name": "Mitra Dhaba \u2014 Baberu",
+  "short_name": "Mitra Dhaba",
+  "description": "POS, Tables, Kitchen (KOT) & Khata App for Mitra Dhaba, Baberu",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#FAF6F0",
+  "theme_color": "#1E130C",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
